@@ -5,7 +5,7 @@
   "description": "A simple Node app built on fastify, instantly up and running.",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./node/index.js"
   },
   "dependencies": {
     "fastify": "^4.21.0",
